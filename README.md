@@ -21,13 +21,11 @@ Live Demo Link ()
 
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript (or React/Vue/Angular if applicable)
+Frontend: HTML, CSS, JavaScript, React
 
-Backend: Node.js/Express (if backend is used)
+Backend: Node.js
 
-Database: MongoDB / Firebase / Local Storage (depending on implementation)
-
-Other: Bootstrap / Tailwind CSS for styling (optional)
+Database: Local Storage
 
 
 Installation
@@ -52,8 +50,7 @@ npm install
 npm start
 
 
-5. Open index.html in your browser (if purely frontend-based).
-
+5. Open index.html in your browser
 
 
 Usage
@@ -70,11 +67,11 @@ Usage
 4. Edit or delete tasks as needed.
 
 
-5. Tasks will persist (if local storage or backend is implemented).
+5. Tasks will persist in local storage 
 
 
 
-Folder Structure (Example)
+Folder Structure
 
 todo-list-app/
 │
